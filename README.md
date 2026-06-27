@@ -30,9 +30,9 @@ Sample Superstore Dataset
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/SalesOverview.png)
+![Dashboard](screenshots/ProductAnalysis.png)
 
-![Profit Analysis](screenshots/ProfitAnalysis.png)
+![Profit Analysis](screenshots/RetailSalesAnalytics.png)
 
 ## Author
 Krishnanjan Mukherjee
