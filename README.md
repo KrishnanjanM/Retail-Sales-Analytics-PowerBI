@@ -32,6 +32,8 @@ Sample Superstore Dataset
 
 ![Dashboard](screenshots/ProductAnalysis.png)
 
+
+
 ![Profit Analysis](screenshots/RetailSalesAnalytics.png)
 
 ## Author
